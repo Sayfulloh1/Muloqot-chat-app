@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091842927616",
+    "project_id": "muloqot-cc69f",
+    "storage_bucket": "muloqot-cc69f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091842927616:android:c00b37a45db9f9c8a83ce5",
+        "android_client_info": {
+          "package_name": "com.ibroximjonmaxammadjonov.muloqot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL9jPLzqK1mg8YdBy6_8AlsSqFMKYyOqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
